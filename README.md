@@ -16,7 +16,8 @@ The model visually tracks the movement and behavior of the sea urchin in a simul
 
 ## Limitations
 1. Simulation Duration:
-2. Simplified Assumptions:
+The model runs for a fixed duration of 3000 steps, after which it terminates. This means there is a possibility that the sea urchin might not find food within the given timeframe.
+3. Simplified Assumptions:
 - The model is highly idealized and does not account for environmental complexity.
 - In real-world scenarios, sea urchin foraging behavior may not strictly follow a Lévy walk pattern.
 - Other abiotic factors (e.g., water currents, temperature gradients) that influence foraging behavior are not included in the model.
