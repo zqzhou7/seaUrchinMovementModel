@@ -22,4 +22,4 @@ The model visually tracks the movement and behavior of the sea urchin in a simul
 - Other abiotic factors (e.g., water currents, temperature gradients) that influence foraging behavior are not included in the model.
 
 ## References
-- Learn more about Lévy walks on [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9vy_flight).
+Learn more about Lévy walks on [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9vy_flight).
