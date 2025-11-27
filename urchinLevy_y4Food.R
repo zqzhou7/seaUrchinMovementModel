@@ -135,5 +135,5 @@ p
 
 # Set the width and height within your ggplot object
 animation <- gganimate::animate(p, renderer = gganimate::gifski_renderer(), width = 800, height = 600)
-gganimate::anim_save("output.mp4", animation)
+gganimate::anim_save("output.gif", animation)
 
