@@ -9,6 +9,8 @@ The Lévy walk theory suggests that organisms search for food using short steps 
 
 The model visually tracks the movement and behavior of the sea urchin in a simulated environment.
 
+![Demo animation](output.gif)
+
 ## Features
 1. Simulates Lévy walk-based movement behavior.
 2. Includes chemical cue detection for food sources.
